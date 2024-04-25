@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">E-Commerce</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_profile_fragment">hello_profile_fragment</string>
+    <string name="hello_sepet_fragment">hello_sepet_fragment</string>
+    <string name="hesabin_yok_mu_kayit_ol">Hesabin yok mu ? Kayit ol</string>
+    <string name="giris_yap">Giris Yap</string>
+    <string name="sifre">Sifre</string>
+    <string name="textview">TextView</string>
+    <string name="e_mail">E-mail</string>
+    <string name="name_surname">NameAndSurname</string>
+    <string name="name_surnameme">name_surnameme</string>
+    <string name="name_surnamee" />
+</resources>

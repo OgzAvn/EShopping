@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "57511558747",
+    "project_id": "e-commerce-cf5e1",
+    "storage_bucket": "e-commerce-cf5e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57511558747:android:a7d2e2d185dd579ad4c97e",
+        "android_client_info": {
+          "package_name": "com.oguz.e_commerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": " "
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
